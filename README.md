@@ -22,6 +22,7 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas** apaixonado por te
 - **Cardapio online:**  De um trailer de pastel. (já está no GitHub!)
 - **Chatbot no Slack:** Um projeto de chatbot para o Slack que visa integrar notificações e automações em equipes. ( Ainda não iniciado)
 - **Inteligência Artificial:** Trabalhos e pesquisas em Inteligência Artificial, desde a definição e história até aplicações práticas no dia a dia.
+- **Apk Controle de Despesas via web** Trabalhando no desenvolvimento desse apk que você consegue adicionar suas despesas que ficam somadas e você marca o checkbox para concluir como paga, o apk conta com graficos para melhorar a experiencia.
 
 ## 🌱 Sempre Aprendendo
 
