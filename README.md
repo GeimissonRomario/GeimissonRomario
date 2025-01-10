@@ -1,18 +1,17 @@
 # 👋 Olá! Eu sou o Geimisson Romário!
 
-Sou um estudante de **Análise e Desenvolvimento de Sistemas** apaixonado por tecnologia e desenvolvimento de software. Estou sempre aprendendo e experimentando com novas ferramentas e técnicas para resolver problemas complexos de forma eficiente.
+Sou um graduado em **Análise e Desenvolvimento de Sistemas** apaixonado por tecnologia e desenvolvimento de software. Estou sempre aprendendo e experimentando com novas ferramentas e técnicas para resolver problemas complexos de forma eficiente.
 
 ## 🚀 Sobre Mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🧠 Interesses: Inteligência Artificial, Desenvolvimento Web, Focado em aprender Trabalhar no Back-End e Integrações de Sistemas
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
+- 🧠 Interesses: Inteligência Artificial, Desenvolvimento Web, Focado em aprender Trabalhar no Back-End, Front-End e Integrações de Sistemas
 
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- **Linguagens:** JavaScript, Python, HTML, CSS
+- **Linguagens:** JavaScriptc, HTML, CSS
 - **Frameworks e Bibliotecas:** React, Node.js
-- **Banco de Dados:**MySQL
 - **Ferramentas de DevOps:** Docker, GitHub Actions, Azure
 - **Outros:** Firebase Cloud Messaging (FCM), Notificações Push, Digital Ocean, Slack API, Cloud Flare
 
